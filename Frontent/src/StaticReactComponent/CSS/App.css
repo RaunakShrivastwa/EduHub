@@ -1,0 +1,14 @@
+.noti {
+    height: 85vh;
+    position: fixed;
+    background-color: white;
+}
+
+.mess {
+    height: 100%;
+    overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
